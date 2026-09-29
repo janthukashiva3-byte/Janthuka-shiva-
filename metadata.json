@@ -1,0 +1,6 @@
+{
+  "name": "OmniDrop",
+  "description": "Hyper-local marketplace & fast delivery for everyday essentials, groceries, electronics, home care & wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
